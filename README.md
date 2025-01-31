@@ -1,28 +1,22 @@
 # 🌲 Cypress, do Zero à Nuvem ☁️
 
-👋 Seja bem-vindo(a)!
+### DESKTOP:
+- `npm test` - modo desktop viewport
+- `npm run cy:open` - para rodar o cypress app no desktop viewport
 
-É muito bom tê-lo(a) aqui. Tenho certeza que você vai amar esse curso. ❤️
+### MOBILE:
+- `npm run test:mobile` - headless mode
+- `npm run cy:open:mobile` - para rodar no cypress app em um mobile viewport
 
-## O que você vai aprender?
+### LINK
+[walmyr](https://walmyr.dev)
 
-- Como configurar um projeto Cypress do zero
-- Como visitar páginas locais e remotas
-- Como lidar com os elementos mais comuns encontrados em aplicações web
-- Como testar upload de arquivos
-- Como realizar as mais diversas verificações de resultados esperados
-- Como criar comandos customizados
-- Como lidar com links que abrem em outra aba do navegador
-- Como rodar testes simulando as dimensões de um dispositivo móvel
-- Como resolver os mesmos problemas de diferentes formas, conhecendo a [API do Cypress](https://docs.cypress.io/api/table-of-contents)
-- Como criar uma documentação mínima para seu projeto de testes automatizados
-- Como executar os testes em um _workflow_ de integração contínua sempre que mudanças ocorrerem no código da aplicação (ou dos testes)
-- Como integrar seu _workflow_ de integração contínua com o Cypress Cloud (o serviço de gestão de testes do Cypress na nuvem)
 
-## Vamos começar?
+## COMANDOS GITHUB
 
-Vá para a seção [estrutura do curso](./lessons/_course-structure_.md).
-
-___
-
-Este é um curso da **Escola Talking About Testing**.
+`git branch` - main é o branch principal
+`checkout -b licao-9` - cria um novo branch
+`git status` - mostra os arquivos versionados e modificados 
+`git add .` - adiciona todos os arquivos para o Git
+`git commit -m 'Create cypress project'` - subir para o Git
+`git push origin Licao-9` - sobe o branch da lição 9
