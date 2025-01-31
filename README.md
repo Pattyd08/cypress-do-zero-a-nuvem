@@ -20,3 +20,4 @@
 `git add .` - adiciona todos os arquivos para o Git
 `git commit -m 'Create cypress project'` - subir para o Git
 `git push origin Licao-9` - sobe o branch da lição 9
+`git push origin domain` - sobe a pasta principal
