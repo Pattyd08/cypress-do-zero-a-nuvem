@@ -1,4 +1,4 @@
-console.log('Cypress, do zero a nuvem')
+console.log('Cypress, do Zero à Nuvem')
 
 let isPhoneRequired = false
 
